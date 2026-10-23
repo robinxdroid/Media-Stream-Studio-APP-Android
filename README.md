@@ -47,13 +47,31 @@ If you already use desktop OBS Studio, scenes, sources, and Program/Preview will
 
 ## A look inside / 界面预览
 
-| Scenes and layouts / 场景与布局 | Studio Mode / 导播预览 | Sources and UVC / 来源与外接摄像头 |
-| :---: | :---: | :---: |
-| <img src="assets/readme/scenes-and-layouts.png" alt="Mestrio Studio scene and layout controls" width="240"> | <img src="assets/readme/studio-mode.png" alt="Mestrio Studio Program and Preview controls" width="240"> | <img src="assets/readme/add-source-uvc.png" alt="Mestrio Studio UVC and USB HDMI source options" width="240"> |
+Click a screenshot to see it at full size. / 点击截图可查看大图。
 
-| Live destinations / 推流平台 | Recording / 录制模式 | Remote control / 遥控器 |
+| Scenes and layouts / 场景与布局 | Studio Mode / 导播预览 | Transitions / 转场 |
 | :---: | :---: | :---: |
-| <img src="assets/readme/live-destinations.png" alt="Mestrio Studio live platform configuration" width="240"> | <img src="assets/readme/recording-modes.png" alt="Mestrio Studio recording modes" width="240"> | <img src="assets/readme/remote-control.png" alt="Mestrio Studio remote control settings" width="240"> |
+| <a href="assets/readme/scenes-and-layouts.png"><img src="assets/readme/scenes-and-layouts.png" alt="Mestrio Studio scene and layout controls" width="220"></a> | <a href="assets/readme/studio-mode.png"><img src="assets/readme/studio-mode.png" alt="Mestrio Studio Program and Preview controls" width="220"></a> | <a href="assets/readme/transitions.png"><img src="assets/readme/transitions.png" alt="Mestrio Studio scene transition effects and preview" width="220"></a> |
+
+| Auto Director / 自动演播 | UVC and HDMI / 外接采集 | Media sources / 音视频素材 |
+| :---: | :---: | :---: |
+| <a href="assets/readme/auto-director.png"><img src="assets/readme/auto-director.png" alt="Mestrio Studio timed scene and layout cues in Auto Director" width="220"></a> | <a href="assets/readme/add-source-uvc.png"><img src="assets/readme/add-source-uvc.png" alt="Mestrio Studio UVC camera and USB HDMI capture source options" width="220"></a> | <a href="assets/readme/media-sources.png"><img src="assets/readme/media-sources.png" alt="Mestrio Studio media playlist video audio and image sources" width="220"></a> |
+
+| Network sources / 网络来源 | Stream server / 流媒体服务 | Resources / 资源库 |
+| :---: | :---: | :---: |
+| <a href="assets/readme/network-sources.png"><img src="assets/readme/network-sources.png" alt="Mestrio Studio network stream NDI browser and stream server sources" width="220"></a> | <a href="assets/readme/stream-server-settings.png"><img src="assets/readme/stream-server-settings.png" alt="Mestrio Studio stream server settings for receiving a remote feed" width="220"></a> | <a href="assets/readme/resource-library.png"><img src="assets/readme/resource-library.png" alt="Mestrio Studio reusable media resource library" width="220"></a> |
+
+| Mixer / 混音器 | Audio filters / 音频滤镜 | Video filters / 视频滤镜 |
+| :---: | :---: | :---: |
+| <a href="assets/readme/audio-mixer.png"><img src="assets/readme/audio-mixer.png" alt="Mestrio Studio per-source audio mixer with meters and mute" width="220"></a> | <a href="assets/readme/audio-filters.png"><img src="assets/readme/audio-filters.png" alt="Mestrio Studio noise gate EQ compressor and other audio filters" width="220"></a> | <a href="assets/readme/video-filters.png"><img src="assets/readme/video-filters.png" alt="Mestrio Studio chroma key color and other video filters" width="220"></a> |
+
+| Live destinations / 推流平台 | Output settings / 输出参数 | Recording / 录制模式 |
+| :---: | :---: | :---: |
+| <a href="assets/readme/live-destinations.png"><img src="assets/readme/live-destinations.png" alt="Mestrio Studio live platform configuration" width="220"></a> | <a href="assets/readme/output-encoding.png"><img src="assets/readme/output-encoding.png" alt="Mestrio Studio live resolution frame rate and bitrate settings" width="220"></a> | <a href="assets/readme/recording-modes.png"><img src="assets/readme/recording-modes.png" alt="Mestrio Studio video and audio recording modes" width="220"></a> |
+
+| Recording encoding / 录制编码 | NDI output / NDI 输出 | Remote control / 遥控器 |
+| :---: | :---: | :---: |
+| <a href="assets/readme/recording-encoding.png"><img src="assets/readme/recording-encoding.png" alt="Mestrio Studio shared or separate recording encoding settings" width="220"></a> | <a href="assets/readme/ndi-output.png"><img src="assets/readme/ndi-output.png" alt="Mestrio Studio NDI Program output settings" width="220"></a> | <a href="assets/readme/remote-control.png"><img src="assets/readme/remote-control.png" alt="Mestrio Studio remote control settings" width="220"></a> |
 
 ## Get started
 
