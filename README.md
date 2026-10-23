@@ -2,7 +2,7 @@
 
 Create a live show on your Android device: combine cameras and media, switch scenes, mix audio, stream to multiple destinations, and record locally. Mestrio Studio brings a familiar OBS-style production workflow to a phone or tablet, with touch controls built for work on location.
 
-[Read the full English story](https://mestrio-studio.web.app/blog/studio-production/) · [简体中文](#简体中文)
+[Read the full English story](https://medium.com/@robinxdroid/take-the-control-room-with-you-mestrio-studio-7f00081720d1) · [简体中文](#简体中文)
 
 <a href="https://play.google.com/store/apps/details?id=com.mestrio.studio"><img src="assets/readme/google-play-en.png" alt="Get Mestrio Studio on Google Play" width="200"></a>
 
@@ -73,7 +73,7 @@ Feature availability depends on the Android device, version, connected hardware,
 
 **Mestrio Studio** 是一款 Android 直播与录制应用。用手机或平板接入摄像头、屏幕和网络画面，编排场景、混音、预览下一镜，同时推流到多个平台并在本地录制。熟悉 PC OBS 的用户会认出场景、Source 和 Studio Mode；到了教室、展会、门店或采访现场，则可以直接用触控完成制作。
 
-[查看英文长文与更多配图](https://mestrio-studio.web.app/blog/studio-production/)
+[查看英文长文与更多配图](https://medium.com/@robinxdroid/take-the-control-room-with-you-mestrio-studio-7f00081720d1)
 
 <a href="https://play.google.com/store/apps/details?id=com.mestrio.studio"><img src="assets/readme/google-play-zh-cn.png" alt="在 Google Play 下载 Mestrio Studio" width="200"></a>
 
@@ -125,4 +125,4 @@ Logo、视频、音频、SVG、Lottie 和字幕等文件可以先存进**资源�
 ---
 
 **Download / 下载：** [Mestrio Studio on Google Play](https://play.google.com/store/apps/details?id=com.mestrio.studio)  
-**Full article / 完整文章：** [Take the Control Room With You](https://mestrio-studio.web.app/blog/studio-production/)
+**Full article / 完整文章：** [Take the Control Room With You](https://medium.com/@robinxdroid/take-the-control-room-with-you-mestrio-studio-7f00081720d1)
